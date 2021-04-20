@@ -1,0 +1,15 @@
+C:\Projects\3HomeworkITEA\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.exe
+C:\Projects\3HomeworkITEA\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.deps.json
+C:\Projects\3HomeworkITEA\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.json
+C:\Projects\3HomeworkITEA\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.dev.json
+C:\Projects\3HomeworkITEA\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.dll
+C:\Projects\3HomeworkITEA\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\Projects\3HomeworkITEA\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csprojAssemblyReference.cache
+C:\Projects\3HomeworkITEA\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.Form1.resources
+C:\Projects\3HomeworkITEA\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.GenerateResource.cache
+C:\Projects\3HomeworkITEA\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfoInputs.cache
+C:\Projects\3HomeworkITEA\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfo.cs
+C:\Projects\3HomeworkITEA\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Projects\3HomeworkITEA\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.dll
+C:\Projects\3HomeworkITEA\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\Projects\3HomeworkITEA\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.genruntimeconfig.cache
