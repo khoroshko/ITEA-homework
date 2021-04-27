@@ -1,0 +1,13 @@
+C:\Projects\5HomeworkITEA\5HomeworkITEA\obj\Debug\netcoreapp3.1\5HomeworkITEA.csprojAssemblyReference.cache
+C:\Projects\5HomeworkITEA\5HomeworkITEA\obj\Debug\netcoreapp3.1\5HomeworkITEA.AssemblyInfoInputs.cache
+C:\Projects\5HomeworkITEA\5HomeworkITEA\obj\Debug\netcoreapp3.1\5HomeworkITEA.AssemblyInfo.cs
+C:\Projects\5HomeworkITEA\5HomeworkITEA\obj\Debug\netcoreapp3.1\5HomeworkITEA.csproj.CoreCompileInputs.cache
+C:\Projects\5HomeworkITEA\5HomeworkITEA\bin\Debug\netcoreapp3.1\5HomeworkITEA.exe
+C:\Projects\5HomeworkITEA\5HomeworkITEA\bin\Debug\netcoreapp3.1\5HomeworkITEA.deps.json
+C:\Projects\5HomeworkITEA\5HomeworkITEA\bin\Debug\netcoreapp3.1\5HomeworkITEA.runtimeconfig.json
+C:\Projects\5HomeworkITEA\5HomeworkITEA\bin\Debug\netcoreapp3.1\5HomeworkITEA.runtimeconfig.dev.json
+C:\Projects\5HomeworkITEA\5HomeworkITEA\bin\Debug\netcoreapp3.1\5HomeworkITEA.dll
+C:\Projects\5HomeworkITEA\5HomeworkITEA\bin\Debug\netcoreapp3.1\5HomeworkITEA.pdb
+C:\Projects\5HomeworkITEA\5HomeworkITEA\obj\Debug\netcoreapp3.1\5HomeworkITEA.dll
+C:\Projects\5HomeworkITEA\5HomeworkITEA\obj\Debug\netcoreapp3.1\5HomeworkITEA.pdb
+C:\Projects\5HomeworkITEA\5HomeworkITEA\obj\Debug\netcoreapp3.1\5HomeworkITEA.genruntimeconfig.cache
